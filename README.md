@@ -38,4 +38,42 @@ Raspberry Pi
 
 Matlab
 
-Otras herramientas y frameworks según los requerimientos del proyecto
+📁 Project Repository
+
+This repository contains a collection of academic and personal projects developed throughout my training and self-directed learning process. Each project covers different areas such as programming, embedded systems, databases, and web development, showcasing the practical application of technical skills in real-world scenarios.
+
+The main objective of this repository is to centralize all completed work, facilitate easy access, and serve as a technical portfolio that demonstrates acquired competencies.
+
+📌 Contents
+
+This repository includes:
+
+Academic projects
+
+Practice exercises
+
+Personal and experimental projects
+
+Software and hardware implementations
+
+Each folder contains its own documentation and, when applicable, functional demonstrations or relevant links.
+
+🛠 Technologies Used
+
+The main technologies featured in this repository include:
+
+Python
+
+C++
+
+JavaScript
+
+HTML / CSS
+
+MongoDB
+
+Raspberry Pi
+
+Matlab
+
+Additional tools and frameworks depending on project requirements
