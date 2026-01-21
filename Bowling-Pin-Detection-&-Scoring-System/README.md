@@ -1,5 +1,6 @@
-🎳 Bowling Pin Detection & Scoring System
-📌 Versión en Español
+# 🎳 Bowling Pin Detection & Scoring System
+
+# 📌 Versión en Español
 
 Desarrollé un sistema de visión computacional para la detección y conteo automático de pinos de boliche a partir de imágenes con perspectiva cenital, simulando un sistema de puntuación en tiempo real.
 
@@ -45,7 +46,7 @@ Notas
 
 Este proyecto es una simulación basada en imágenes estáticas. El rendimiento depende de factores como iluminación y calidad de imagen.
 
-📌 English Version
+# 📌 English Version
 
 Developed a computer vision system for automatic detection and counting of bowling pins from top-down images, simulating a real-time scoring system.
 
