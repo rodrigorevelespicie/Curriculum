@@ -38,6 +38,9 @@ Raspberry Pi
 
 Matlab
 
+Otras herramientas y frameworks según los requerimientos del proyecto
+
+# English
 📁 Project Repository
 
 This repository contains a collection of academic and personal projects developed throughout my training and self-directed learning process. Each project covers different areas such as programming, embedded systems, databases, and web development, showcasing the practical application of technical skills in real-world scenarios.
